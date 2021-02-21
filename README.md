@@ -2,6 +2,8 @@
 
 This repository contains the starter code for the chat app for the workshop.
 
+Incase you haven't registered for the workshop and you are looking at this repository, I highly encourage you to do so here: https://www.shaastra.org/events/ckk6u4skc000hq3qj4xv9h58h
+
 This needs to be downloaded on your computers before you start with the hands on session. 
 
 # How to use the starter code?
